@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/love"]
+	path = themes/love
+	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
+[submodule "themes/cyChen"]
+	path = themes/cyChen
+	url = https://github.com/dillonzq/LoveIt
